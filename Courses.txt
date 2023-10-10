@@ -4,3 +4,5 @@
 4 -> English
 5 -> Tamil
 6 -> Hindi
+7 -> computers
+8 -> Biology 
